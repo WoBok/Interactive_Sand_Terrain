@@ -1,0 +1,20 @@
+{
+    "name": "JBooth.MicroSplat.Trax.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3e9beaea3f928e141a661992a69204c6",
+        "GUID:90ab0119788ed4ec6b8fe54dd44f01fa",
+        "GUID:4bdfb2239705740718731d0b4d54061d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
